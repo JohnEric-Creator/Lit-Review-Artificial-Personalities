@@ -1,5 +1,5 @@
 # Lit-Review-Artificial-Personalities
-Literatur Review Project "Artificial Personalities: A Review of Theory and Development in Machine Learning and Data Science"
+Literature Review Project "Artificial Personalities: A Review of Theory and Development in Machine Learning and Data Science"
 ############# Deep Learning Theory - Literature Survey 1 ##################################################################
 Assignment: Deep Learning Theory - Literature Survey 1
 Content
@@ -7,8 +7,7 @@ Content
 
     Due Date
     Tuesday, February 28, 2023 11:59 PM
-    Points Possible
-    100
+    Points Possible 100
 
     Submit a presentation on the literature review, citing at least three deep learning-related research articles or journals.
 
@@ -18,7 +17,11 @@ Content
         
  ################################ Info Science:Principles/Theory (01) #####################################################
  
- Literature Survey Assignment
+ 2. Literature Survey Assignment
+ 
+    Due Date
+    Tuesday, February 28, 2023 11:59 PM
+    Points Possible 100
 
 Posted on: Sunday, February 19, 2023 3:38:07 PM CST
 
