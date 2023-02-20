@@ -1,6 +1,6 @@
 # Lit-Review-Artificial-Personalities
 Literature Review Project "Artificial Personalities: A Review of Theory and Development in Machine Learning and Data Science"
-############# Deep Learning Theory - Literature Survey 1 ##################################################################
+Deep Learning Theory - Literature Survey 1
 Assignment: Deep Learning Theory - Literature Survey 1
 Content
 1.   Assignment Information
@@ -11,11 +11,11 @@ Content
 
     Submit a presentation on the literature review, citing at least three deep learning-related research articles or journals.
 
-        Please submit your presentation in pdf format.
+        Please submit your **presentation** in pdf format.
 
         For the most recent studies on deep learning research, check out the Journal of Machine Learning Research.
         
- ################################ Info Science:Principles/Theory (01) #####################################################
+ Info Science:Principles/Theory (01)
  
  2. Literature Survey Assignment
  
